@@ -8,6 +8,9 @@
   },
   "author": "Naveen Kumar",
   "license": "ISC",
+  "engines": {
+    "node": "16.15.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "cjs": "^0.0.11",
